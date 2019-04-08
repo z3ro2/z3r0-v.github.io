@@ -1,0 +1,13 @@
+body {
+    font-family: LeagueSpartan;
+    background: url("../assets/img/stars.gif");
+    background-repeat: repeat;
+}
+
+.centered-v {
+    margin-top: calc(50vh - 131px);
+}
+
+#twisty {
+    letter-spacing: 0.2em;
+}
